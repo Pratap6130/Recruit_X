@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://D%3A/A.minorproject/jsm_mock_interview_platform/mock_interview_platform/app/%28root%29/page.tsx"],"sourcesContent":["\"use client\"\nimport React from 'react'\n\nconst Page =()=> {\n    return (\n        <div className='text-red-500'>Home Page</div>\n    )\n}\nexport default Page;"],"names":[],"mappings":";;;;AAAA;;AAGA,MAAM,OAAM;IACR,qBACI,8OAAC;QAAI,WAAU;kBAAe;;;;;;AAEtC;uCACe","debugId":null}}]
+}

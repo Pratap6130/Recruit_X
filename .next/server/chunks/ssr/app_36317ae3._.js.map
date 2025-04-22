@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://D%3A/A.minorproject/jsm_mock_interview_platform/mock_interview_platform/app/%28auth%29/layout.tsx"],"sourcesContent":["import {ReactNode} from 'react';\r\n\r\nconst AuthLayout = ({children}: {children: ReactNode}) =>  {\r\n    return (\r\n    <div className=\"auth-layout\">{children}</div>\r\n    )\r\n}\r\nexport default AuthLayout;"],"names":[],"mappings":";;;;;AAEA,MAAM,aAAa,CAAC,EAAC,QAAQ,EAAwB;IACjD,qBACA,8OAAC;QAAI,WAAU;kBAAe;;;;;;AAElC;uCACe","debugId":null}},
+    {"offset": {"line": 29, "column": 0}, "map": {"version":3,"sources":["file://D%3A/A.minorproject/jsm_mock_interview_platform/mock_interview_platform/app/%28root%29/layout.tsx"],"sourcesContent":["import { ReactNode} from 'react'\r\nimport AuthLayout from '../(auth)/layout';\r\n\r\nconst RootLayout = ({ children } : { children: ReactNode }) => {\r\n    return (\r\n        <AuthLayout>\r\n            <div className=\"auth-layout\">{children}</div>\r\n        </AuthLayout>\r\n    )\r\n}\r\nexport default RootLayout;"],"names":[],"mappings":";;;;AACA;;;AAEA,MAAM,aAAa,CAAC,EAAE,QAAQ,EAA4B;IACtD,qBACI,8OAAC,0HAAA,CAAA,UAAU;kBACP,cAAA,8OAAC;YAAI,WAAU;sBAAe;;;;;;;;;;;AAG1C;uCACe","debugId":null}}]
+}

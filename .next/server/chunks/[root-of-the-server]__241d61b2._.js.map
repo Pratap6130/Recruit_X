@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 52, "column": 0}, "map": {"version":3,"sources":["file://D%3A/A.minorproject/jsm_mock_interview_platform/mock_interview_platform/app/api/vapi/generate/route.ts"],"sourcesContent":["export async function GET() {\r\n    return Response.json({ success: true, data: 'Thank You!' }, { status: 200 });\r\n}"],"names":[],"mappings":";;;AAAO,eAAe;IAClB,OAAO,SAAS,IAAI,CAAC;QAAE,SAAS;QAAM,MAAM;IAAa,GAAG;QAAE,QAAQ;IAAI;AAC9E","debugId":null}}]
+}

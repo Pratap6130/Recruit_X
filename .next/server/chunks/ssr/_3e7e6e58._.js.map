@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://D%3A/A.minorproject/jsm_mock_interview_platform/mock_interview_platform/app/%28root%29/page.tsx"],"sourcesContent":["\"use client\"\nimport React from 'react'\n\nconst Page =()=> {\n    return (\n       <>\n           <section className='card-cta'>\n            <div className='flex flex-col gap-6 max-w-lg '>\n                      \n                      <h2>Get Interview-Ready with AI-Powered Practice & Feedback</h2>\n                      <p className='text-lg'>\n                           Practice on real interview questions & get instant feedback\n                      </p>\n            </div>\n\n           </section>\n       </>\n    )\n}\nexport default Page;"],"names":[],"mappings":";;;;AAAA;;AAGA,MAAM,OAAM;IACR,qBACG;kBACI,cAAA,8OAAC;YAAQ,WAAU;sBAClB,cAAA,8OAAC;gBAAI,WAAU;;kCAEL,8OAAC;kCAAG;;;;;;kCACJ,8OAAC;wBAAE,WAAU;kCAAU;;;;;;;;;;;;;;;;;;AAQ7C;uCACe","debugId":null}},
+    {"offset": {"line": 54, "column": 0}, "map": {"version":3,"sources":["file://D%3A/A.minorproject/jsm_mock_interview_platform/mock_interview_platform/node_modules/next/src/server/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = require('../../module.compiled').vendored[\n  'react-ssr'\n].ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":";AAAAA,OAAOC,OAAO,GAAGC,QAAQ,4HAAyBC,QAAQ,CACxD,YACD,CAACC,kBAAkB","ignoreList":[0],"debugId":null}}]
+}

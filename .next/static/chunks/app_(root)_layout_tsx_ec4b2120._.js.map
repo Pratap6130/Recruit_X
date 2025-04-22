@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://D%3A/A.minorproject/jsm_mock_interview_platform/mock_interview_platform/app/%28root%29/layout.tsx"],"sourcesContent":["\"use client\"\r\nimport { Link } from 'lucide-react';\r\nimport { ReactNode} from 'react'\r\nimport React from 'react';\r\nimport Image from 'next/image';\r\n\r\n\r\nconst RootLayout = ({ children } : { children: ReactNode }) => {\r\n    return (\r\n        <div className='root-layout'>\r\n\r\n            <nav>\r\n                <Link href=\"/\" className='flex items-center gap-2'>\r\n                <Image src=\"/public/logo.svg\" alt='logo' width={38} height={32} />\r\n                <h2 className=\"text-primary-100 \">PrepWise</h2>\r\n\r\n                </Link>\r\n\r\n            </nav>\r\n            \r\n\r\n        </div>\r\n    )\r\n}\r\nexport default RootLayout;"],"names":[],"mappings":";;;;AACA;AAGA;AAJA;;;;AAOA,MAAM,aAAa,CAAC,EAAE,QAAQ,EAA4B;IACtD,qBACI,6LAAC;QAAI,WAAU;kBAEX,cAAA,6LAAC;sBACG,cAAA,6LAAC,qMAAA,CAAA,OAAI;gBAAC,MAAK;gBAAI,WAAU;;kCACzB,6LAAC,gIAAA,CAAA,UAAK;wBAAC,KAAI;wBAAmB,KAAI;wBAAO,OAAO;wBAAI,QAAQ;;;;;;kCAC5D,6LAAC;wBAAG,WAAU;kCAAoB;;;;;;;;;;;;;;;;;;;;;;AASlD;KAhBM;uCAiBS","debugId":null}}]
+}
