@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://D%3A/A.minorproject/jsm_mock_interview_platform/mock_interview_platform/app/%28auth%29/layout.tsx"],"sourcesContent":["import React from 'react';\r\nimport {ReactNode} from 'react';\r\n// import { redirect } from \"next/navigation\";\r\n\r\n// import { isAuthenticated } from \"@/lib/actions/auth.action\";\r\n\r\nconst AuthLayout = async ({children}: {children: ReactNode}) =>  {\r\n \r\n    // const isUserAuthenticated = await isAuthenticated();\r\n    //   if (!isUserAuthenticated) redirect('/');\r\n\r\n    return (\r\n    <div className=\"auth-layout\">{children}</div>\r\n    )\r\n}\r\nexport default AuthLayout;"],"names":[],"mappings":";;;;;AAEA,8CAA8C;AAE9C,+DAA+D;AAE/D,MAAM,aAAa,OAAO,EAAC,QAAQ,EAAwB;IAEvD,uDAAuD;IACvD,6CAA6C;IAE7C,qBACA,8OAAC;QAAI,WAAU;kBAAe;;;;;;AAElC;uCACe","debugId":null}}]
-}
